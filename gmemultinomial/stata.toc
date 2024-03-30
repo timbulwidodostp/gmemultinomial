@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p gmemultinomial Generalized maximum entropy discrete choice model for the multinomial case Use gmemultinomial With STATA 18
