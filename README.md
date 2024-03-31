@@ -7,6 +7,8 @@ Generalized entropy models Use gmemultinomial With STATA 18
 
 Generalized Maximum Entropy (MLogit) Use gmemultinomial With STATA 18
 
+https://www.youtube.com/watch?v=dzyx8VGfj_I
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
